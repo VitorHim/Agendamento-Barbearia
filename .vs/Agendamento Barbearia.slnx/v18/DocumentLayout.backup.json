@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|c:\\projetos\\agendamentobarbearia\\agendamento barbearia\\agendamento barbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|solutionrelative:agendamento barbearia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|c:\\projetos\\agendamentobarbearia\\agendamento barbearia\\agendamento barbearia\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|solutionrelative:agendamento barbearia\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|c:\\projetos\\agendamentobarbearia\\agendamento barbearia\\agendamento barbearia\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226F970-241B-4056-0D59-C9FC62330C36}|Agendamento Barbearia\\Agendamento Barbearia.csproj|solutionrelative:agendamento barbearia\\barbeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 112,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Servico.cs",
+              "RelativeDocumentMoniker": "Agendamento Barbearia\\Servico.cs",
+              "ToolTip": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Servico.cs",
+              "RelativeToolTip": "Agendamento Barbearia\\Servico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:13:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barbeiro.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Barbeiro.cs",
+              "RelativeDocumentMoniker": "Agendamento Barbearia\\Barbeiro.cs",
+              "ToolTip": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Barbeiro.cs",
+              "RelativeToolTip": "Agendamento Barbearia\\Barbeiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:21:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Program.cs",
+              "RelativeDocumentMoniker": "Agendamento Barbearia\\Program.cs",
+              "ToolTip": "C:\\PROJETOS\\AgendamentoBarbearia\\Agendamento Barbearia\\Agendamento Barbearia\\Program.cs",
+              "RelativeToolTip": "Agendamento Barbearia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:35:41.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
